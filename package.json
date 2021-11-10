@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A terminal-based RPG.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thorulfr/jest-another-RPG.git"
+  },
+  "author": "Ben Holt",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Thorulfr/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Thorulfr/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
